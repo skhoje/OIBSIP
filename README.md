@@ -1,1 +1,1 @@
-# OIBSIP
+Hello, this is the repository consisting of web development tasks. The first task consist of a landing page of starbucks coffee, second task is about portfolio of my own, whereas third task is about a converter. Hope this would be helpful.
